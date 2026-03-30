@@ -498,7 +498,7 @@ with tab3_acp:
     import plotly.io as pio
     import plotly.graph_objects as go
 
-    st.title("Séparabilité des classes (ACP 3D)")
+    st.markdown(f"<h3 style='text-align: center;'>{"Séparabilité des classes (ACP 3D)"}</h3>", unsafe_allow_html=True)
 
     # Solution : Lire le fichier en tant que texte et utiliser from_json avec skip_invalid
     try:
