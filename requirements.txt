@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+imageio
+imageio-ffmpeg
+torch
+torchvision
+matplotlib
+plotly
+satpy
+pyresample
+pyproj
+s3fs
+netCDF4
+h5netcdf
