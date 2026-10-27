@@ -207,9 +207,6 @@ Les poids entraînés sont sauvegardés dans `models/`.
 ```bash
 streamlit run app.py
 ```
-
-L'application s'ouvre dans le navigateur sur `http://localhost:8501`.
-
 Elle propose 6 onglets :
 
 | Onglet | Contenu |
